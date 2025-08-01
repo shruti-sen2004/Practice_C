@@ -1,3 +1,5 @@
+//Convert the given temp in ferenheit to celcius
+
 #include<stdio.h>
 int main(){
     float temp,new_temp;

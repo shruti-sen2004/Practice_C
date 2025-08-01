@@ -1,3 +1,5 @@
+// Convert the given number of days into months and days
+
 #include <stdio.h>
 int main(){
     int months,days;

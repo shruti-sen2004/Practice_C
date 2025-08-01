@@ -1,7 +1,8 @@
 //PRINT THE PATTERN OF THE FOLLOWING SERIES
+// -1 + 1/3! - 1/5! + 1/7!......upto n terms
 
 #include <stdio.h>
-void main(){
+int main(){
     int i,j,f=1,n,c=1;
     float sum=0.0f;
     printf("ENTER THE NUMBER OF TERMS: ");

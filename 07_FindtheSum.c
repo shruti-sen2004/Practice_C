@@ -1,4 +1,5 @@
-// print the following pattern
+//  print the following pattern
+//  1 + 1/2 +1/4 +.........upto n terms
 #include <stdio.h>
 int main(){
     int n,i;
